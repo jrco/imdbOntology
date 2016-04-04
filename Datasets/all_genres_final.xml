@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<genres>
+   <genre id="gr1">Comedy</genre>
+   <genre id="gr2">Drama</genre>
+   <genre id="gr3">Family</genre>
+   <genre id="gr4">Adventure</genre>
+   <genre id="gr5">Sci-Fi</genre>
+   <genre id="gr6">Action</genre>
+   <genre id="gr7">Romance</genre>
+   <genre id="gr8">Crime</genre>
+   <genre id="gr9">Mystery</genre>
+   <genre id="gr10">War</genre>
+   <genre id="gr11">Fantasy</genre>
+   <genre id="gr12">Film-Noir</genre>
+   <genre id="gr13">Thriller</genre>
+   <genre id="gr14">Western</genre>
+   <genre id="gr15">Musical</genre>
+   <genre id="gr16">Horror</genre>
+   <genre id="gr17">History</genre>
+   <genre id="gr18">Biography</genre>
+   <genre id="gr19">Sport</genre>
+   <genre id="gr20">Music</genre>
+   <genre id="gr21">Animation</genre>
+</genres>

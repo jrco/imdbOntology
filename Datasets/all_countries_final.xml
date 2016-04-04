@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<countries>
+   <country id="ct1">USA</country>
+   <country id="ct2">Germany</country>
+   <country id="ct3">France</country>
+   <country id="ct4">Italy</country>
+   <country id="ct5">UK</country>
+   <country id="ct6">Japan</country>
+   <country id="ct7">West Germany</country>
+   <country id="ct8">Sweden</country>
+   <country id="ct9">Spain</country>
+   <country id="ct10">Algeria</country>
+   <country id="ct11">Ireland</country>
+   <country id="ct12">Soviet Union</country>
+   <country id="ct13">Hong Kong</country>
+   <country id="ct14">India</country>
+   <country id="ct15">Austria</country>
+   <country id="ct16">Switzerland</country>
+   <country id="ct17">China</country>
+   <country id="ct18">New Zealand</country>
+   <country id="ct19">Australia</country>
+   <country id="ct20">Mexico</country>
+   <country id="ct21">Poland</country>
+   <country id="ct22">Canada</country>
+   <country id="ct23">Brazil</country>
+   <country id="ct24">South Korea</country>
+   <country id="ct25">South Africa</country>
+   <country id="ct26">Belgium</country>
+   <country id="ct27">Denmark</country>
+   <country id="ct28">Argentina</country>
+   <country id="ct29">United Arab Emirates</country>
+   <country id="ct30">Iran</country>
+   <country id="ct31">Russia</country>
+   <country id="ct32">Bulgaria</country>
+</countries>
