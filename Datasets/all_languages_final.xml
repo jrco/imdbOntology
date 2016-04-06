@@ -1,52 +1,199 @@
 <?xml version="1.0" encoding="utf-8"?>
 <languages>
-   <language id="lgg1">English</language>
-   <language id="lgg2">German</language>
-   <language id="lgg3">N/A</language>
-   <language id="lgg4">French</language>
-   <language id="lgg5">Russian</language>
-   <language id="lgg6">Esperanto</language>
-   <language id="lgg7">Italian</language>
-   <language id="lgg8">Portuguese</language>
-   <language id="lgg9">Spanish</language>
-   <language id="lgg10">Japanese</language>
-   <language id="lgg11">Thai</language>
-   <language id="lgg12">Latin</language>
-   <language id="lgg13">Swedish</language>
-   <language id="lgg14">Arabic</language>
-   <language id="lgg15">Turkish</language>
-   <language id="lgg16">Cantonese</language>
-   <language id="lgg17">Sicilian</language>
-   <language id="lgg18">Vietnamese</language>
-   <language id="lgg19">Hebrew</language>
-   <language id="lgg20">Nepali</language>
-   <language id="lgg21">Hungarian</language>
-   <language id="lgg22">Yiddish</language>
-   <language id="lgg23">Norwegian</language>
-   <language id="lgg24">Greek</language>
-   <language id="lgg25">Polish</language>
-   <language id="lgg26">Swahili</language>
-   <language id="lgg27">Xhosa</language>
-   <language id="lgg28">Zulu</language>
-   <language id="lgg29">Scottish Gaelic</language>
-   <language id="lgg30">Shanghainese</language>
-   <language id="lgg31">Sindarin</language>
-   <language id="lgg32">Czech</language>
-   <language id="lgg33">Old English</language>
-   <language id="lgg34">Quenya</language>
-   <language id="lgg35">Korean</language>
-   <language id="lgg36">Mandarin</language>
-   <language id="lgg37">Urdu</language>
-   <language id="lgg38">Irish</language>
-   <language id="lgg39">American Sign Language</language>
-   <language id="lgg40">Danish</language>
-   <language id="lgg41">Hindi</language>
-   <language id="lgg42">Hmong</language>
-   <language id="lgg43">Pawnee</language>
-   <language id="lgg44">Persian</language>
-   <language id="lgg45">Klingon</language>
-   <language id="lgg46">Chinese</language>
-   <language id="lgg47">Norse</language>
-   <language id="lgg48">Old</language>
-   <language id="lgg49">Romanian</language>
+   <language>
+      <id>lgg1</id>
+      <name>American Sign Language</name>
+   </language>
+   <language>
+      <id>lgg2</id>
+      <name>Arabic</name>
+   </language>
+   <language>
+      <id>lgg3</id>
+      <name>Cantonese</name>
+   </language>
+   <language>
+      <id>lgg4</id>
+      <name>Chinese</name>
+   </language>
+   <language>
+      <id>lgg5</id>
+      <name>Czech</name>
+   </language>
+   <language>
+      <id>lgg6</id>
+      <name>Danish</name>
+   </language>
+   <language>
+      <id>lgg7</id>
+      <name>English</name>
+   </language>
+   <language>
+      <id>lgg8</id>
+      <name>Esperanto</name>
+   </language>
+   <language>
+      <id>lgg9</id>
+      <name>French</name>
+   </language>
+   <language>
+      <id>lgg10</id>
+      <name>German</name>
+   </language>
+   <language>
+      <id>lgg11</id>
+      <name>Greek</name>
+   </language>
+   <language>
+      <id>lgg12</id>
+      <name>Hebrew</name>
+   </language>
+   <language>
+      <id>lgg13</id>
+      <name>Hindi</name>
+   </language>
+   <language>
+      <id>lgg14</id>
+      <name>Hmong</name>
+   </language>
+   <language>
+      <id>lgg15</id>
+      <name>Hungarian</name>
+   </language>
+   <language>
+      <id>lgg16</id>
+      <name>Irish</name>
+   </language>
+   <language>
+      <id>lgg17</id>
+      <name>Italian</name>
+   </language>
+   <language>
+      <id>lgg18</id>
+      <name>Japanese</name>
+   </language>
+   <language>
+      <id>lgg19</id>
+      <name>Klingon</name>
+   </language>
+   <language>
+      <id>lgg20</id>
+      <name>Korean</name>
+   </language>
+   <language>
+      <id>lgg21</id>
+      <name>Latin</name>
+   </language>
+   <language>
+      <id>lgg22</id>
+      <name>Mandarin</name>
+   </language>
+   <language>
+      <id>lgg23</id>
+      <name>N/A</name>
+   </language>
+   <language>
+      <id>lgg24</id>
+      <name>Nepali</name>
+   </language>
+   <language>
+      <id>lgg25</id>
+      <name>Norse</name>
+   </language>
+   <language>
+      <id>lgg26</id>
+      <name>Norwegian</name>
+   </language>
+   <language>
+      <id>lgg27</id>
+      <name>Old</name>
+   </language>
+   <language>
+      <id>lgg28</id>
+      <name>Old English</name>
+   </language>
+   <language>
+      <id>lgg29</id>
+      <name>Pawnee</name>
+   </language>
+   <language>
+      <id>lgg30</id>
+      <name>Persian</name>
+   </language>
+   <language>
+      <id>lgg31</id>
+      <name>Polish</name>
+   </language>
+   <language>
+      <id>lgg32</id>
+      <name>Portuguese</name>
+   </language>
+   <language>
+      <id>lgg33</id>
+      <name>Quenya</name>
+   </language>
+   <language>
+      <id>lgg34</id>
+      <name>Romanian</name>
+   </language>
+   <language>
+      <id>lgg35</id>
+      <name>Russian</name>
+   </language>
+   <language>
+      <id>lgg36</id>
+      <name>Scottish Gaelic</name>
+   </language>
+   <language>
+      <id>lgg37</id>
+      <name>Shanghainese</name>
+   </language>
+   <language>
+      <id>lgg38</id>
+      <name>Sicilian</name>
+   </language>
+   <language>
+      <id>lgg39</id>
+      <name>Sindarin</name>
+   </language>
+   <language>
+      <id>lgg40</id>
+      <name>Spanish</name>
+   </language>
+   <language>
+      <id>lgg41</id>
+      <name>Swahili</name>
+   </language>
+   <language>
+      <id>lgg42</id>
+      <name>Swedish</name>
+   </language>
+   <language>
+      <id>lgg43</id>
+      <name>Thai</name>
+   </language>
+   <language>
+      <id>lgg44</id>
+      <name>Turkish</name>
+   </language>
+   <language>
+      <id>lgg45</id>
+      <name>Urdu</name>
+   </language>
+   <language>
+      <id>lgg46</id>
+      <name>Vietnamese</name>
+   </language>
+   <language>
+      <id>lgg47</id>
+      <name>Xhosa</name>
+   </language>
+   <language>
+      <id>lgg48</id>
+      <name>Yiddish</name>
+   </language>
+   <language>
+      <id>lgg49</id>
+      <name>Zulu</name>
+   </language>
 </languages>

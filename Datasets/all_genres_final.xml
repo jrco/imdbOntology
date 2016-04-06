@@ -1,24 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
 <genres>
-   <genre id="gr1">Comedy</genre>
-   <genre id="gr2">Drama</genre>
-   <genre id="gr3">Family</genre>
-   <genre id="gr4">Adventure</genre>
-   <genre id="gr5">Sci-Fi</genre>
-   <genre id="gr6">Action</genre>
-   <genre id="gr7">Romance</genre>
-   <genre id="gr8">Crime</genre>
-   <genre id="gr9">Mystery</genre>
-   <genre id="gr10">War</genre>
-   <genre id="gr11">Fantasy</genre>
-   <genre id="gr12">Film-Noir</genre>
-   <genre id="gr13">Thriller</genre>
-   <genre id="gr14">Western</genre>
-   <genre id="gr15">Musical</genre>
-   <genre id="gr16">Horror</genre>
-   <genre id="gr17">History</genre>
-   <genre id="gr18">Biography</genre>
-   <genre id="gr19">Sport</genre>
-   <genre id="gr20">Music</genre>
-   <genre id="gr21">Animation</genre>
+   <genre>
+      <id>gr1</id>
+      <name>Action</name>
+   </genre>
+   <genre>
+      <id>gr2</id>
+      <name>Adventure</name>
+   </genre>
+   <genre>
+      <id>gr3</id>
+      <name>Animation</name>
+   </genre>
+   <genre>
+      <id>gr4</id>
+      <name>Biography</name>
+   </genre>
+   <genre>
+      <id>gr5</id>
+      <name>Comedy</name>
+   </genre>
+   <genre>
+      <id>gr6</id>
+      <name>Crime</name>
+   </genre>
+   <genre>
+      <id>gr7</id>
+      <name>Drama</name>
+   </genre>
+   <genre>
+      <id>gr8</id>
+      <name>Family</name>
+   </genre>
+   <genre>
+      <id>gr9</id>
+      <name>Fantasy</name>
+   </genre>
+   <genre>
+      <id>gr10</id>
+      <name>Film-Noir</name>
+   </genre>
+   <genre>
+      <id>gr11</id>
+      <name>History</name>
+   </genre>
+   <genre>
+      <id>gr12</id>
+      <name>Horror</name>
+   </genre>
+   <genre>
+      <id>gr13</id>
+      <name>Music</name>
+   </genre>
+   <genre>
+      <id>gr14</id>
+      <name>Musical</name>
+   </genre>
+   <genre>
+      <id>gr15</id>
+      <name>Mystery</name>
+   </genre>
+   <genre>
+      <id>gr16</id>
+      <name>Romance</name>
+   </genre>
+   <genre>
+      <id>gr17</id>
+      <name>Sci-Fi</name>
+   </genre>
+   <genre>
+      <id>gr18</id>
+      <name>Sport</name>
+   </genre>
+   <genre>
+      <id>gr19</id>
+      <name>Thriller</name>
+   </genre>
+   <genre>
+      <id>gr20</id>
+      <name>War</name>
+   </genre>
+   <genre>
+      <id>gr21</id>
+      <name>Western</name>
+   </genre>
 </genres>
