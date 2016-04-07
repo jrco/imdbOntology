@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <persons>
+   <person>
+      <id>nm0000000</id>
+      <name>N/A</name>
+   </person>
    <person>
       <id>nm0000001</id>
       <name>Fred Astaire</name>
@@ -231,6 +235,10 @@
    <person>
       <id>nm0000075</id>
       <name>Spencer Tracy</name>
+   </person>
+   <person>
+      <id>nm0000076</id>
+      <name>François Truffaut</name>
    </person>
    <person>
       <id>nm0000078</id>
@@ -1669,6 +1677,10 @@
       <name>Danny Aiello</name>
    </person>
    <person>
+      <id>nm0000733</id>
+      <name>Anouk Aimée</name>
+   </person>
+   <person>
       <id>nm0000734</id>
       <name>Eddie Albert</name>
    </person>
@@ -2618,7 +2630,7 @@
    </person>
    <person>
       <id>nm0001536</id>
-      <name>ToshirÃ´ Mifune</name>
+      <name>Toshirô Mifune</name>
    </person>
    <person>
       <id>nm0001537</id>
@@ -2763,6 +2775,10 @@
    <person>
       <id>nm0001635</id>
       <name>William Powell</name>
+   </person>
+   <person>
+      <id>nm0001638</id>
+      <name>Jürgen Prochnow</name>
    </person>
    <person>
       <id>nm0001639</id>
@@ -2922,7 +2938,7 @@
    </person>
    <person>
       <id>nm0001745</id>
-      <name>Stellan SkarsgÃ¥rd</name>
+      <name>Stellan Skarsgård</name>
    </person>
    <person>
       <id>nm0001749</id>
@@ -3249,6 +3265,10 @@
       <name>Sydney Greenstreet</name>
    </person>
    <person>
+      <id>nm0002120</id>
+      <name>Lasse Hallström</name>
+   </person>
+   <person>
       <id>nm0002127</id>
       <name>Mariska Hargitay</name>
    </person>
@@ -3281,6 +3301,10 @@
       <name>Moustapha Akkad</name>
    </person>
    <person>
+      <id>nm0002231</id>
+      <name>Gian Maria Volontè</name>
+   </person>
+   <person>
       <id>nm0002233</id>
       <name>Erich von Stroheim</name>
    </person>
@@ -3303,6 +3327,14 @@
    <person>
       <id>nm0002718</id>
       <name>Brian Koppelman</name>
+   </person>
+   <person>
+      <id>nm0002728</id>
+      <name>Juan José Campanella</name>
+   </person>
+   <person>
+      <id>nm0002907</id>
+      <name>Alexander Skarsgård</name>
    </person>
    <person>
       <id>nm0003160</id>
@@ -3470,7 +3502,7 @@
    </person>
    <person>
       <id>nm0004851</id>
-      <name>PenÃ©lope Cruz</name>
+      <name>Penélope Cruz</name>
    </person>
    <person>
       <id>nm0004874</id>
@@ -3738,7 +3770,7 @@
    </person>
    <person>
       <id>nm0005527</id>
-      <name>SofÃ­a Vergara</name>
+      <name>Sofía Vergara</name>
    </person>
    <person>
       <id>nm0005541</id>
@@ -3889,6 +3921,10 @@
       <name>Shohreh Aghdashloo</name>
    </person>
    <person>
+      <id>nm0014062</id>
+      <name>Börje Ahlstedt</name>
+   </person>
+   <person>
       <id>nm0015091</id>
       <name>Serdar Akar</name>
    </person>
@@ -3903,6 +3939,10 @@
    <person>
       <id>nm0015570</id>
       <name>Orhan Aksoy</name>
+   </person>
+   <person>
+      <id>nm0015611</id>
+      <name>Ryûnosuke Akutagawa</name>
    </person>
    <person>
       <id>nm0016776</id>
@@ -4035,6 +4075,10 @@
    <person>
       <id>nm0047332</id>
       <name>Jonathan Bailey</name>
+   </person>
+   <person>
+      <id>nm0047962</id>
+      <name>Chieko Baishô</name>
    </person>
    <person>
       <id>nm0048075</id>
@@ -4235,6 +4279,10 @@
    <person>
       <id>nm0083348</id>
       <name>Brad Bird</name>
+   </person>
+   <person>
+      <id>nm0085038</id>
+      <name>Gunnar Björnstrand</name>
    </person>
    <person>
       <id>nm0085312</id>
@@ -4597,12 +4645,20 @@
       <name>Richard S. Castellano</name>
    </person>
    <person>
+      <id>nm0146033</id>
+      <name>Víctor Andrés Catena</name>
+   </person>
+   <person>
       <id>nm0147070</id>
       <name>Glen Cavender</name>
    </person>
    <person>
       <id>nm0147147</id>
       <name>Henry Cavill</name>
+   </person>
+   <person>
+      <id>nm0147599</id>
+      <name>Suso Cecchi DAmico</name>
    </person>
    <person>
       <id>nm0147825</id>
@@ -4719,6 +4775,14 @@
    <person>
       <id>nm0167241</id>
       <name>Henri-Georges Clouzot</name>
+   </person>
+   <person>
+      <id>nm0167243</id>
+      <name>Véra Clouzot</name>
+   </person>
+   <person>
+      <id>nm0167388</id>
+      <name>François Cluzet</name>
    </person>
    <person>
       <id>nm0167649</id>
@@ -4989,6 +5053,10 @@
       <name>Paul Dano</name>
    </person>
    <person>
+      <id>nm0201857</id>
+      <name>Ricardo Darín</name>
+   </person>
+   <person>
       <id>nm0202088</id>
       <name>Jules Dassin</name>
    </person>
@@ -5205,8 +5273,20 @@
       <name>Eliza Dushku</name>
    </person>
    <person>
+      <id>nm0246386</id>
+      <name>Mélissa Désormeaux-Poulin</name>
+   </person>
+   <person>
+      <id>nm0246585</id>
+      <name>Guillermo Díaz</name>
+   </person>
+   <person>
       <id>nm0247653</id>
       <name>Kevin Eastman</name>
+   </person>
+   <person>
+      <id>nm0248408</id>
+      <name>Emilio Echevarría</name>
    </person>
    <person>
       <id>nm0248461</id>
@@ -5521,6 +5601,10 @@
       <name>Nick Frost</name>
    </person>
    <person>
+      <id>nm0297054</id>
+      <name>Gustav Fröhlich</name>
+   </person>
+   <person>
       <id>nm0300064</id>
       <name>Jean Gabin</name>
    </person>
@@ -5566,7 +5650,7 @@
    </person>
    <person>
       <id>nm0305558</id>
-      <name>Gael GarcÃ­a Bernal</name>
+      <name>Gael García Bernal</name>
    </person>
    <person>
       <id>nm0306201</id>
@@ -5597,6 +5681,10 @@
       <name>Lorraine Gary</name>
    </person>
    <person>
+      <id>nm0309107</id>
+      <name>Tatsuya Gashûin</name>
+   </person>
+   <person>
       <id>nm0309128</id>
       <name>Andy Gaskill</name>
    </person>
@@ -5611,6 +5699,10 @@
    <person>
       <id>nm0311476</id>
       <name>Martina Gedeck</name>
+   </person>
+   <person>
+      <id>nm0312656</id>
+      <name>Tesshô Genda</name>
    </person>
    <person>
       <id>nm0313438</id>
@@ -5677,8 +5769,16 @@
       <name>Marco Tullio Giordana</name>
    </person>
    <person>
+      <id>nm0320721</id>
+      <name>Rémy Girard</name>
+   </person>
+   <person>
       <id>nm0320942</id>
       <name>Thomas Moore</name>
+   </person>
+   <person>
+      <id>nm0321294</id>
+      <name>Aldo Giuffrè</name>
    </person>
    <person>
       <id>nm0322339</id>
@@ -5715,6 +5815,10 @@
    <person>
       <id>nm0327273</id>
       <name>Michel Gondry</name>
+   </person>
+   <person>
+      <id>nm0327944</id>
+      <name>Alejandro González Iñárritu</name>
    </person>
    <person>
       <id>nm0328751</id>
@@ -5789,6 +5893,10 @@
       <name>Seth Grahame-Smith</name>
    </person>
    <person>
+      <id>nm0334882</id>
+      <name>Darío Grandinetti</name>
+   </person>
+   <person>
       <id>nm0335048</id>
       <name>Farley Granger</name>
    </person>
@@ -5821,6 +5929,10 @@
       <name>David Greenwalt</name>
    </person>
    <person>
+      <id>nm0340190</id>
+      <name>Frédéric Grendel</name>
+   </person>
+   <person>
       <id>nm0340580</id>
       <name>Harry Grey</name>
    </person>
@@ -5849,8 +5961,16 @@
       <name>Ioan Gruffudd</name>
    </person>
    <person>
+      <id>nm0344963</id>
+      <name>Herbert Grönemeyer</name>
+   </person>
+   <person>
       <id>nm0345615</id>
       <name>Christian Gudegast</name>
+   </person>
+   <person>
+      <id>nm0346270</id>
+      <name>Álvaro Guerrero</name>
    </person>
    <person>
       <id>nm0346291</id>
@@ -5883,6 +6003,10 @@
    <person>
       <id>nm0350454</id>
       <name>Maggie Gyllenhaal</name>
+   </person>
+   <person>
+      <id>nm0350823</id>
+      <name>Jérôme Géronimi</name>
    </person>
    <person>
       <id>nm0352443</id>
@@ -5995,6 +6119,10 @@
    <person>
       <id>nm0368007</id>
       <name>Gustav Hasford</name>
+   </person>
+   <person>
+      <id>nm0368051</id>
+      <name>Izô Hashimoto</name>
    </person>
    <person>
       <id>nm0368074</id>
@@ -6485,6 +6613,10 @@
       <name>Rinko Kikuchi</name>
    </person>
    <person>
+      <id>nm0452878</id>
+      <name>Ryûzô Kikushima</name>
+   </person>
+   <person>
       <id>nm0454120</id>
       <name>Takuya Kimura</name>
    </person>
@@ -6605,6 +6737,10 @@
       <name>Jim Kouf</name>
    </person>
    <person>
+      <id>nm0468003</id>
+      <name>Hubert Koundé</name>
+   </person>
+   <person>
       <id>nm0468169</id>
       <name>Dusan Kovacevic</name>
    </person>
@@ -6625,6 +6761,10 @@
       <name>Margaretha Krook</name>
    </person>
    <person>
+      <id>nm0473228</id>
+      <name>Hardy Krüger</name>
+   </person>
+   <person>
       <id>nm0473530</id>
       <name>Akira Kubo</name>
    </person>
@@ -6635,6 +6775,14 @@
    <person>
       <id>nm0476064</id>
       <name>Alex Kurtzman</name>
+   </person>
+   <person>
+      <id>nm0477449</id>
+      <name>Hisako Kyôda</name>
+   </person>
+   <person>
+      <id>nm0477553</id>
+      <name>Machiko Kyô</name>
    </person>
    <person>
       <id>nm0479471</id>
@@ -6714,7 +6862,7 @@
    </person>
    <person>
       <id>nm0491259</id>
-      <name>MÃ©lanie Laurent</name>
+      <name>Mélanie Laurent</name>
    </person>
    <person>
       <id>nm0491402</id>
@@ -6925,8 +7073,20 @@
       <name>Folco Lulli</name>
    </person>
    <person>
+      <id>nm0526199</id>
+      <name>Kátia Lund</name>
+   </person>
+   <person>
       <id>nm0528987</id>
       <name>Sue Lyon</name>
+   </person>
+   <person>
+      <id>nm0529543</id>
+      <name>Jean-Pierre Léaud</name>
+   </person>
+   <person>
+      <id>nm0530365</id>
+      <name>Sergi López</name>
    </person>
    <person>
       <id>nm0531878</id>
@@ -7045,6 +7205,10 @@
       <name>Suzanne Martin</name>
    </person>
    <person>
+      <id>nm0555404</id>
+      <name>María Marull</name>
+   </person>
+   <person>
       <id>nm0555617</id>
       <name>Harpo Marx</name>
    </person>
@@ -7055,6 +7219,10 @@
    <person>
       <id>nm0557339</id>
       <name>Raymond Massey</name>
+   </person>
+   <person>
+      <id>nm0557510</id>
+      <name>René Masson</name>
    </person>
    <person>
       <id>nm0557767</id>
@@ -7373,6 +7541,10 @@
       <name>Samantha Morton</name>
    </person>
    <person>
+      <id>nm0609404</id>
+      <name>Sôjirô Motoki</name>
+   </person>
+   <person>
       <id>nm0609944</id>
       <name>Wagner Moura</name>
    </person>
@@ -7383,6 +7555,10 @@
    <person>
       <id>nm0611531</id>
       <name>Hrishikesh Mukherjee</name>
+   </person>
+   <person>
+      <id>nm0612199</id>
+      <name>Melissa Müller</name>
    </person>
    <person>
       <id>nm0612322</id>
@@ -7418,11 +7594,15 @@
    </person>
    <person>
       <id>nm0618057</id>
-      <name>Ulrich MÃ¼he</name>
+      <name>Ulrich Mühe</name>
    </person>
    <person>
       <id>nm0619507</id>
       <name>Phyllis Nagy</name>
+   </person>
+   <person>
+      <id>nm0619822</id>
+      <name>Takashi Naitô</name>
    </person>
    <person>
       <id>nm0619836</id>
@@ -7449,6 +7629,10 @@
       <name>Mari Natsuki</name>
    </person>
    <person>
+      <id>nm0623214</id>
+      <name>Gorô Naya</name>
+   </person>
+   <person>
       <id>nm0623658</id>
       <name>Patricia Neal</name>
    </person>
@@ -7459,6 +7643,10 @@
    <person>
       <id>nm0625729</id>
       <name>Sandy Nelson</name>
+   </person>
+   <person>
+      <id>nm0625858</id>
+      <name>André Nemec</name>
    </person>
    <person>
       <id>nm0628285</id>
@@ -7521,6 +7709,10 @@
       <name>Marti Noxon</name>
    </person>
    <person>
+      <id>nm0639321</id>
+      <name>Dan OBannon</name>
+   </person>
+   <person>
       <id>nm0639529</id>
       <name>Edmond O'Brien</name>
    </person>
@@ -7538,7 +7730,7 @@
    </person>
    <person>
       <id>nm0640334</id>
-      <name>Gavin O'Connor</name>
+      <name>Gavin OConnor</name>
    </person>
    <person>
       <id>nm0641354</id>
@@ -7865,6 +8057,10 @@
       <name>Mario Puzo</name>
    </person>
    <person>
+      <id>nm0702541</id>
+      <name>Hanno Pöschl</name>
+   </person>
+   <person>
       <id>nm0705356</id>
       <name>Daniel Radcliffe</name>
    </person>
@@ -8113,6 +8309,10 @@
       <name>Maya Rudolph</name>
    </person>
    <person>
+      <id>nm0749021</id>
+      <name>Kristin Rudrüd</name>
+   </person>
+   <person>
       <id>nm0749263</id>
       <name>Mark Ruffalo</name>
    </person>
@@ -8155,6 +8355,14 @@
    <person>
       <id>nm0753479</id>
       <name>ChishÃ» RyÃ»</name>
+   </person>
+   <person>
+      <id>nm0753480</id>
+      <name>Daisuke Ryû</name>
+   </person>
+   <person>
+      <id>nm0753716</id>
+      <name>Albert Rémy</name>
    </person>
    <person>
       <id>nm0754272</id>
@@ -8325,6 +8533,10 @@
       <name>Takashi Shimura</name>
    </person>
    <person>
+      <id>nm0793881</id>
+      <name>Kaneto Shindô</name>
+   </person>
+   <person>
       <id>nm0794002</id>
       <name>Yoshiko Shinohara</name>
    </person>
@@ -8407,6 +8619,14 @@
    <person>
       <id>nm0803310</id>
       <name>Ping Lam Siu</name>
+   </person>
+   <person>
+      <id>nm0803705</id>
+      <name>Victor Sjöström</name>
+   </person>
+   <person>
+      <id>nm0803890</id>
+      <name>Gustaf Skarsgård</name>
    </person>
    <person>
       <id>nm0807667</id>
@@ -8609,6 +8829,10 @@
       <name>Cary-Hiroyuki Tagawa</name>
    </person>
    <person>
+      <id>nm0846548</id>
+      <name>Saïd Taghmaoui</name>
+   </person>
+   <person>
       <id>nm0847054</id>
       <name>Hitoshi Takagi</name>
    </person>
@@ -8773,6 +8997,10 @@
       <name>Mahito Tsujimura</name>
    </person>
    <person>
+      <id>nm0875362</id>
+      <name>Yôko Tsukasa</name>
+   </person>
+   <person>
       <id>nm0875477</id>
       <name>Keiko Tsushima</name>
    </person>
@@ -8873,12 +9101,20 @@
       <name>Gore Verbinski</name>
    </person>
    <person>
+      <id>nm0893941</id>
+      <name>Maribel Verdú</name>
+   </person>
+   <person>
       <id>nm0894141</id>
       <name>Victor Verhaeghe</name>
    </person>
    <person>
       <id>nm0896542</id>
       <name>King Vidor</name>
+   </person>
+   <person>
+      <id>nm0897640</id>
+      <name>Mónica Villa</name>
    </person>
    <person>
       <id>nm0897845</id>
@@ -8963,6 +9199,10 @@
    <person>
       <id>nm0908919</id>
       <name>Eli Wallach</name>
+   </person>
+   <person>
+      <id>nm0909412</id>
+      <name>Martin Wallström</name>
    </person>
    <person>
       <id>nm0909638</id>
@@ -9365,6 +9605,10 @@
       <name>Stefan Zweig</name>
    </person>
    <person>
+      <id>nm0960028</id>
+      <name>Katsuhiro Ôtomo</name>
+   </person>
+   <person>
       <id>nm0963359</id>
       <name>Jane Goldman</name>
    </person>
@@ -9661,6 +9905,10 @@
       <name>Leandro Firmino</name>
    </person>
    <person>
+      <id>nm1130251</id>
+      <name>Bráulio Mantovani</name>
+   </person>
+   <person>
       <id>nm1130627</id>
       <name>Cobie Smulders</name>
    </person>
@@ -9727,6 +9975,10 @@
    <person>
       <id>nm1165110</id>
       <name>Chris Hemsworth</name>
+   </person>
+   <person>
+      <id>nm1167933</id>
+      <name>Damián Szifrón</name>
    </person>
    <person>
       <id>nm1168510</id>
@@ -10141,6 +10393,14 @@
       <name>Diego Klattenhoff</name>
    </person>
    <person>
+      <id>nm1460386</id>
+      <name>Colm Tóibín</name>
+   </person>
+   <person>
+      <id>nm1461392</id>
+      <name>Joachim Rønning</name>
+   </person>
+   <person>
       <id>nm1468739</id>
       <name>Amanda Crew</name>
    </person>
@@ -10271,6 +10531,14 @@
    <person>
       <id>nm1557594</id>
       <name>Dan Fogelman</name>
+   </person>
+   <person>
+      <id>nm1561982</id>
+      <name>Pilou Asbæk</name>
+   </person>
+   <person>
+      <id>nm1566537</id>
+      <name>Louise Lemoine Torrès</name>
    </person>
    <person>
       <id>nm1567113</id>
@@ -10754,7 +11022,7 @@
    </person>
    <person>
       <id>nm2244205</id>
-      <name>LÃ©a Seydoux</name>
+      <name>Léa Seydoux</name>
    </person>
    <person>
       <id>nm2247245</id>
@@ -10815,6 +11083,10 @@
    <person>
       <id>nm2366079</id>
       <name>Bob Morley</name>
+   </person>
+   <person>
+      <id>nm2368789</id>
+      <name>Zoë Kravitz</name>
    </person>
    <person>
       <id>nm2379544</id>
@@ -11185,6 +11457,10 @@
       <name>Mackenzie Foy</name>
    </person>
    <person>
+      <id>nm3238883</id>
+      <name>Gerard ONeill</name>
+   </person>
+   <person>
       <id>nm3251662</id>
       <name>Dick Lehr</name>
    </person>
@@ -11381,6 +11657,10 @@
       <name>Chloe Bennet</name>
    </person>
    <person>
+      <id>nm4034068</id>
+      <name>Valérie Beaugrand-Champagne</name>
+   </person>
+   <person>
       <id>nm4043618</id>
       <name>Tom Holland</name>
    </person>
@@ -11543,6 +11823,10 @@
    <person>
       <id>nm5038871</id>
       <name>Annika Wedderkopp</name>
+   </person>
+   <person>
+      <id>nm5039026</id>
+      <name>Lasse Fogelstrøm</name>
    </person>
    <person>
       <id>nm5047308</id>
