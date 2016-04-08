@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <countries>
    <country>
+      <id>ct0</id>
+      <name>N/A</name>
+   </country>
+   <country>
       <id>ct1</id>
       <name>Algeria</name>
    </country>
