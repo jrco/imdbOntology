@@ -10,9 +10,9 @@
       </released>
       <runtime>68 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Family</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0000122</director>
@@ -47,9 +47,9 @@
       </released>
       <runtime>95 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000122</director>
@@ -84,8 +84,8 @@
       </released>
       <runtime>153 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000485</director>
@@ -121,9 +121,9 @@
       </released>
       <runtime>67 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0115669</director>
@@ -162,8 +162,8 @@
       </released>
       <runtime>94 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0003638</director>
@@ -201,9 +201,9 @@
       </released>
       <runtime>87 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000122</director>
@@ -238,9 +238,9 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000485</director>
@@ -276,8 +276,8 @@
       </released>
       <runtime>105 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0001008</director>
@@ -313,8 +313,8 @@
       </released>
       <runtime>87 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000122</director>
@@ -349,8 +349,8 @@
       </released>
       <runtime>114 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0719756</director>
@@ -389,9 +389,9 @@
       </released>
       <runtime>238 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0281808</director>
@@ -429,8 +429,8 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001008</director>
@@ -466,9 +466,9 @@
       </released>
       <runtime>102 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0281808</director>
@@ -511,7 +511,7 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000406</director>
@@ -547,9 +547,9 @@
       </released>
       <runtime>125 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000122</director>
@@ -585,9 +585,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
          <genre>Film-Noir</genre>
-         <genre>Mystery</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -627,8 +627,8 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000080</director>
@@ -664,8 +664,8 @@
       </released>
       <runtime>100 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
          <genre>Film-Noir</genre>
       </genres>
       <directors>
@@ -702,9 +702,9 @@
       </released>
       <runtime>102 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0002031</director>
@@ -746,8 +746,8 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
          <genre>Film-Noir</genre>
       </genres>
       <directors>
@@ -785,9 +785,9 @@
       </released>
       <runtime>172 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0943758</director>
@@ -823,9 +823,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Family</genre>
-         <genre>Fantasy</genre>
+         <genre>gr7</genre>
+         <genre>gr8</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001008</director>
@@ -864,9 +864,9 @@
       </released>
       <runtime>101 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
          <genre>Film-Noir</genre>
-         <genre>Romance</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -903,7 +903,7 @@
       </released>
       <runtime>89 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001120</director>
@@ -946,9 +946,9 @@
       </released>
       <runtime>126 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001379</director>
@@ -986,8 +986,8 @@
       <runtime>93 min</runtime>
       <genres>
          <genre>Film-Noir</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0715346</director>
@@ -1025,7 +1025,7 @@
       </released>
       <runtime>138 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000581</director>
@@ -1061,8 +1061,8 @@
       </released>
       <runtime>88 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -1100,7 +1100,7 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
          <genre>Film-Noir</genre>
       </genres>
       <directors>
@@ -1138,9 +1138,9 @@
       </released>
       <runtime>101 min</runtime>
       <genres>
-         <genre>Crime</genre>
+         <genre>gr6</genre>
          <genre>Film-Noir</genre>
-         <genre>Thriller</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -1179,7 +1179,7 @@
       </released>
       <runtime>85 min</runtime>
       <genres>
-         <genre>Western</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0003593</director>
@@ -1216,7 +1216,7 @@
       </released>
       <runtime>143 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -1253,9 +1253,9 @@
       </released>
       <runtime>103 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Musical</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr13</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0002045</director>
@@ -1292,8 +1292,8 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0943758</director>
@@ -1333,9 +1333,9 @@
       </released>
       <runtime>131 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0167241</director>
@@ -1378,9 +1378,9 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0167241</director>
@@ -1421,8 +1421,8 @@
       </released>
       <runtime>105 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -1458,9 +1458,9 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0001415</director>
@@ -1497,8 +1497,8 @@
       </released>
       <runtime>112 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -1534,7 +1534,7 @@
       </released>
       <runtime>207 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -1571,8 +1571,8 @@
       </released>
       <runtime>96 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001486</director>
@@ -1608,9 +1608,9 @@
       </released>
       <runtime>161 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000180</director>
@@ -1650,7 +1650,7 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -1688,8 +1688,8 @@
       </released>
       <runtime>88 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -1730,8 +1730,8 @@
       </released>
       <runtime>96 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000005</director>
@@ -1768,8 +1768,8 @@
       </released>
       <runtime>91 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000005</director>
@@ -1805,8 +1805,8 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000697</director>
@@ -1845,9 +1845,9 @@
       </released>
       <runtime>95 min</runtime>
       <genres>
-         <genre>Crime</genre>
+         <genre>gr6</genre>
          <genre>Film-Noir</genre>
-         <genre>Thriller</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000080</director>
@@ -1884,9 +1884,9 @@
       </released>
       <runtime>128 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Romance</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr15</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -1924,9 +1924,9 @@
       </released>
       <runtime>160 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0695937</director>
@@ -1962,9 +1962,9 @@
       </released>
       <runtime>212 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0943758</director>
@@ -2000,9 +2000,9 @@
       </released>
       <runtime>136 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Crime</genre>
-         <genre>Mystery</genre>
+         <genre>gr2</genre>
+         <genre>gr6</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -2037,8 +2037,8 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000076</director>
@@ -2077,8 +2077,8 @@
       </released>
       <runtime>120 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000697</director>
@@ -2116,9 +2116,9 @@
       </released>
       <runtime>125 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000697</director>
@@ -2154,9 +2154,9 @@
       </released>
       <runtime>109 min</runtime>
       <genres>
-         <genre>Horror</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr12</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000033</director>
@@ -2192,9 +2192,9 @@
       </released>
       <runtime>186 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>History</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0006452</director>
@@ -2231,8 +2231,8 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -2269,9 +2269,9 @@
       </released>
       <runtime>216 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000180</director>
@@ -2310,8 +2310,8 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0612322</director>
@@ -2347,9 +2347,9 @@
       </released>
       <runtime>134 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000736</director>
@@ -2385,8 +2385,8 @@
       </released>
       <runtime>138 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000019</director>
@@ -2430,7 +2430,7 @@
       </released>
       <runtime>95 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -2470,9 +2470,9 @@
       </released>
       <runtime>172 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0836328</director>
@@ -2512,9 +2512,9 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Western</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0001466</director>
@@ -2558,8 +2558,8 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0690597</director>
@@ -2599,7 +2599,7 @@
       </released>
       <runtime>132 min</runtime>
       <genres>
-         <genre>Western</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0001466</director>
@@ -2641,7 +2641,7 @@
       </released>
       <runtime>161 min</runtime>
       <genres>
-         <genre>Western</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0001466</director>
@@ -2685,8 +2685,8 @@
       </released>
       <runtime>83 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000005</director>
@@ -2722,7 +2722,7 @@
       </released>
       <runtime>131 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001566</director>
@@ -2759,8 +2759,8 @@
       </released>
       <runtime>126 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0742341</director>
@@ -2797,8 +2797,8 @@
       </released>
       <runtime>149 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -2836,9 +2836,9 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001351</director>
@@ -2874,7 +2874,7 @@
       </released>
       <runtime>175 min</runtime>
       <genres>
-         <genre>Western</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0001466</director>
@@ -2917,9 +2917,9 @@
       </released>
       <runtime>136 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -2956,8 +2956,8 @@
       </released>
       <runtime>175 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000338</director>
@@ -2996,9 +2996,9 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001351</director>
@@ -3033,9 +3033,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000591</director>
@@ -3072,8 +3072,8 @@
       </released>
       <runtime>202 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000338</director>
@@ -3114,9 +3114,9 @@
       </released>
       <runtime>91 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000416</director>
@@ -3159,9 +3159,9 @@
       </released>
       <runtime>184 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -3201,8 +3201,8 @@
       </released>
       <runtime>125 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001486</director>
@@ -3239,9 +3239,9 @@
       </released>
       <runtime>124 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -3278,7 +3278,7 @@
       </released>
       <runtime>133 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001232</director>
@@ -3316,7 +3316,7 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001486</director>
@@ -3351,8 +3351,8 @@
       </released>
       <runtime>120 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm0000814</director>
@@ -3387,8 +3387,8 @@
       </released>
       <runtime>113 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -3424,8 +3424,8 @@
       </released>
       <runtime>93 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000095</director>
@@ -3462,9 +3462,9 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000184</director>
@@ -3499,8 +3499,8 @@
       </released>
       <runtime>183 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0001047</director>
@@ -3543,8 +3543,8 @@
       </released>
       <runtime>117 min</runtime>
       <genres>
-         <genre>Horror</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr12</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000631</director>
@@ -3583,8 +3583,8 @@
       </released>
       <runtime>153 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000338</director>
@@ -3623,7 +3623,7 @@
       </released>
       <runtime>94 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0001402</director>
@@ -3664,9 +3664,9 @@
       </released>
       <runtime>163 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0001789</director>
@@ -3704,8 +3704,8 @@
       </released>
       <runtime>124 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000186</director>
@@ -3745,9 +3745,9 @@
       </released>
       <runtime>124 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0449984</director>
@@ -3784,9 +3784,9 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -3825,8 +3825,8 @@
       </released>
       <runtime>146 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -3864,9 +3864,9 @@
       </released>
       <runtime>149 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000583</director>
@@ -3904,8 +3904,8 @@
       </released>
       <runtime>115 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -3947,8 +3947,8 @@
       </released>
       <runtime>117 min</runtime>
       <genres>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000631</director>
@@ -3991,7 +3991,7 @@
       </released>
       <runtime>188 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000005</director>
@@ -4031,9 +4031,9 @@
       </released>
       <runtime>191 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000277</director>
@@ -4069,8 +4069,8 @@
       </released>
       <runtime>109 min</runtime>
       <genres>
-         <genre>Horror</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr12</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000118</director>
@@ -4107,9 +4107,9 @@
       </released>
       <runtime>131 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0549658</director>
@@ -4146,8 +4146,8 @@
       </released>
       <runtime>170 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000361</director>
@@ -4183,9 +4183,9 @@
       </released>
       <runtime>160 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>Music</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr13</genre>
       </genres>
       <directors>
          <director>nm0001232</director>
@@ -4225,9 +4225,9 @@
       </released>
       <runtime>117 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -4264,8 +4264,8 @@
       </released>
       <runtime>229 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001466</director>
@@ -4310,8 +4310,8 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000116</director>
@@ -4350,9 +4350,9 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000709</director>
@@ -4388,9 +4388,9 @@
       </released>
       <runtime>162 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000041</director>
@@ -4429,9 +4429,9 @@
       </released>
       <runtime>137 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Horror</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr12</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000116</director>
@@ -4472,8 +4472,8 @@
       </released>
       <runtime>120 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000231</director>
@@ -4510,8 +4510,8 @@
       </released>
       <runtime>89 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001661</director>
@@ -4548,9 +4548,9 @@
       </released>
       <runtime>125 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -4585,8 +4585,8 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000040</director>
@@ -4626,9 +4626,9 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
-         <genre>Family</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0001661</director>
@@ -4664,9 +4664,9 @@
       </released>
       <runtime>124 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Action</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr3</genre>
+         <genre>gr1</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0960028</director>
@@ -4706,8 +4706,8 @@
       </released>
       <runtime>131 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0001532</director>
@@ -4746,9 +4746,9 @@
       </released>
       <runtime>89 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr3</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0847223</director>
@@ -4785,7 +4785,7 @@
       </released>
       <runtime>155 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0868153</director>
@@ -4824,9 +4824,9 @@
       </released>
       <runtime>86 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Family</genre>
-         <genre>Fantasy</genre>
+         <genre>gr3</genre>
+         <genre>gr8</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -4861,9 +4861,9 @@
       </released>
       <runtime>127 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -4904,9 +4904,9 @@
       </released>
       <runtime>146 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -4944,9 +4944,9 @@
       </released>
       <runtime>84 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Family</genre>
-         <genre>Fantasy</genre>
+         <genre>gr3</genre>
+         <genre>gr8</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0873779</director>
@@ -4993,9 +4993,9 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0001129</director>
@@ -5031,8 +5031,8 @@
       </released>
       <runtime>137 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000116</director>
@@ -5070,8 +5070,8 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -5108,7 +5108,7 @@
       </released>
       <runtime>131 min</runtime>
       <genres>
-         <genre>Western</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0000142</director>
@@ -5143,9 +5143,9 @@
       </released>
       <runtime>101 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Fantasy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr9</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000601</director>
@@ -5184,9 +5184,9 @@
       </released>
       <runtime>133 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0006487</director>
@@ -5225,9 +5225,9 @@
       </released>
       <runtime>127 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -5265,9 +5265,9 @@
       </released>
       <runtime>195 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -5306,8 +5306,8 @@
       </released>
       <runtime>142 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000709</director>
@@ -5343,9 +5343,9 @@
       </released>
       <runtime>89 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0021249</director>
@@ -5412,9 +5412,9 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000108</director>
@@ -5451,8 +5451,8 @@
       </released>
       <runtime>154 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -5491,8 +5491,8 @@
       </released>
       <runtime>142 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001104</director>
@@ -5528,8 +5528,8 @@
       </released>
       <runtime>105 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000500</director>
@@ -5569,9 +5569,9 @@
       </released>
       <runtime>178 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000154</director>
@@ -5609,9 +5609,9 @@
       </released>
       <runtime>178 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -5649,8 +5649,8 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0440913</director>
@@ -5685,9 +5685,9 @@
       </released>
       <runtime>170 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000520</director>
@@ -5723,9 +5723,9 @@
       </released>
       <runtime>127 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000399</director>
@@ -5760,9 +5760,9 @@
       </released>
       <runtime>81 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0005124</director>
@@ -5804,9 +5804,9 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000416</director>
@@ -5844,9 +5844,9 @@
       </released>
       <runtime>106 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0001741</director>
@@ -5885,9 +5885,9 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0001054</director>
@@ -5925,7 +5925,7 @@
       </released>
       <runtime>94 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000965</director>
@@ -5961,8 +5961,8 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0939182</director>
@@ -6000,8 +6000,8 @@
       </released>
       <runtime>117 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0001054</director>
@@ -6042,9 +6042,9 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000905</director>
@@ -6082,7 +6082,7 @@
       </released>
       <runtime>126 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001814</director>
@@ -6118,9 +6118,9 @@
       </released>
       <runtime>138 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000436</director>
@@ -6157,9 +6157,9 @@
       </released>
       <runtime>134 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -6194,8 +6194,8 @@
       </released>
       <runtime>194 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000116</director>
@@ -6235,7 +6235,7 @@
       </released>
       <runtime>103 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001837</director>
@@ -6270,8 +6270,8 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0443411</director>
@@ -6306,9 +6306,9 @@
       </released>
       <runtime>189 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001104</director>
@@ -6345,8 +6345,8 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0005363</director>
@@ -6381,9 +6381,9 @@
       </released>
       <runtime>178 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001392</director>
@@ -6423,9 +6423,9 @@
       </released>
       <runtime>169 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -6463,8 +6463,8 @@
       </released>
       <runtime>136 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0905152</director>
@@ -6502,7 +6502,7 @@
       </released>
       <runtime>139 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000399</director>
@@ -6539,9 +6539,9 @@
       </released>
       <runtime>201 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001392</director>
@@ -6583,9 +6583,9 @@
       </released>
       <runtime>179 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001392</director>
@@ -6627,9 +6627,9 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0796117</director>
@@ -6666,8 +6666,8 @@
       </released>
       <runtime>122 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0005222</director>
@@ -6702,8 +6702,8 @@
       </released>
       <runtime>155 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000631</director>
@@ -6742,7 +6742,7 @@
       </released>
       <runtime>102 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0004716</director>
@@ -6779,9 +6779,9 @@
       </released>
       <runtime>92 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0230032</director>
@@ -6823,8 +6823,8 @@
       </released>
       <runtime>102 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0005363</director>
@@ -6861,8 +6861,8 @@
       </released>
       <runtime>113 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -6898,8 +6898,8 @@
       </released>
       <runtime>122 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000466</director>
@@ -6938,9 +6938,9 @@
       </released>
       <runtime>125 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -6975,8 +6975,8 @@
       </released>
       <runtime>154 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0327944</director>
@@ -7011,9 +7011,9 @@
       </released>
       <runtime>113 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0446819</director>
@@ -7048,9 +7048,9 @@
       </released>
       <runtime>150 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000591</director>
@@ -7091,9 +7091,9 @@
       </released>
       <runtime>141 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -7132,9 +7132,9 @@
       </released>
       <runtime>100 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0004056</director>
@@ -7173,7 +7173,7 @@
       </released>
       <runtime>111 min</runtime>
       <genres>
-         <genre>Action</genre>
+         <genre>gr1</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -7212,8 +7212,8 @@
       </released>
       <runtime>135 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000165</director>
@@ -7249,8 +7249,8 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0576987</director>
@@ -7288,9 +7288,9 @@
       </released>
       <runtime>143 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0893659</director>
@@ -7330,9 +7330,9 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0327273</director>
@@ -7370,9 +7370,9 @@
       </released>
       <runtime>101 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0490487</director>
@@ -7411,9 +7411,9 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0594503</director>
@@ -7449,9 +7449,9 @@
       </released>
       <runtime>132 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0094435</director>
@@ -7489,9 +7489,9 @@
       </released>
       <runtime>153 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>War</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -7531,9 +7531,9 @@
       </released>
       <runtime>156 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0386570</director>
@@ -7575,9 +7575,9 @@
       </released>
       <runtime>120 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0661791</director>
@@ -7617,8 +7617,8 @@
       </released>
       <runtime>140 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -7659,8 +7659,8 @@
       </released>
       <runtime>80 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000500</director>
@@ -7702,9 +7702,9 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>History</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0313623</director>
@@ -7745,8 +7745,8 @@
       </released>
       <runtime>124 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0588340</director>
@@ -7783,8 +7783,8 @@
       </released>
       <runtime>137 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0003697</director>
@@ -7819,8 +7819,8 @@
       </released>
       <runtime>132 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm0000142</director>
@@ -7857,9 +7857,9 @@
       </released>
       <runtime>151 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -7898,9 +7898,9 @@
       </released>
       <runtime>132 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0574625</director>
@@ -7939,9 +7939,9 @@
       </released>
       <runtime>103 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0881279</director>
@@ -7980,8 +7980,8 @@
       </released>
       <runtime>115 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0339030</director>
@@ -8025,9 +8025,9 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0868219</director>
@@ -8064,9 +8064,9 @@
       </released>
       <runtime>152 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -8107,7 +8107,7 @@
       </released>
       <runtime>158 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000759</director>
@@ -8144,9 +8144,9 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0307497</director>
@@ -8181,8 +8181,8 @@
       </released>
       <runtime>106 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Mystery</genre>
+         <genre>gr5</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0001053</director>
@@ -8221,9 +8221,9 @@
       </released>
       <runtime>122 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0001053</director>
@@ -8262,9 +8262,9 @@
       </released>
       <runtime>117 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0715636</director>
@@ -8307,9 +8307,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -8347,9 +8347,9 @@
       </released>
       <runtime>148 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000576</director>
@@ -8386,9 +8386,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm1512910</director>
@@ -8425,9 +8425,9 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0393799</director>
@@ -8469,9 +8469,9 @@
       </released>
       <runtime>169 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -8508,8 +8508,8 @@
       </released>
       <runtime>89 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0497563</director>
@@ -8545,9 +8545,9 @@
       </released>
       <runtime>143 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0923736</director>
@@ -8585,9 +8585,9 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr3</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm0213450</director>
@@ -8626,9 +8626,9 @@
       </released>
       <runtime>98 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0004056</director>
@@ -8666,8 +8666,8 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm0946734</director>
@@ -8706,9 +8706,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0811583</director>
@@ -8747,9 +8747,9 @@
       </released>
       <runtime>92 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr3</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0254178</director>
@@ -8785,9 +8785,9 @@
       </released>
       <runtime>180 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr4</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -8824,7 +8824,7 @@
       </released>
       <runtime>111 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0637493</director>
@@ -8861,8 +8861,8 @@
       </released>
       <runtime>93 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Family</genre>
+         <genre>gr7</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0002120</director>
@@ -8900,9 +8900,9 @@
       </released>
       <runtime>96 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0230032</director>
@@ -8942,9 +8942,9 @@
       </released>
       <runtime>85 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Horror</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0716257</director>
@@ -8980,9 +8980,9 @@
       </released>
       <runtime>106 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0002077</director>
@@ -9022,8 +9022,8 @@
       </released>
       <runtime>138 min</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000217</director>
@@ -9060,9 +9060,9 @@
       </released>
       <runtime>105 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0870469</director>
@@ -9101,8 +9101,8 @@
       </released>
       <runtime>170 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0386246</director>
@@ -9140,9 +9140,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0946734</director>
@@ -9179,7 +9179,7 @@
       </released>
       <runtime>116 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000142</director>
@@ -9218,9 +9218,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0220600</director>
@@ -9259,9 +9259,9 @@
       </released>
       <runtime>106 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0948159</director>
@@ -9300,9 +9300,9 @@
       </released>
       <runtime>139 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>War</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0898288</director>
@@ -9343,9 +9343,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0082450</director>
@@ -9384,8 +9384,8 @@
       </released>
       <runtime>140 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm0640334</director>
@@ -9425,8 +9425,8 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0228542</director>
@@ -9466,9 +9466,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0142286</director>
@@ -9506,9 +9506,9 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0002728</director>
@@ -9546,8 +9546,8 @@
       </released>
       <runtime>164 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -9587,9 +9587,9 @@
       </released>
       <runtime>123 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0178376</director>
@@ -9628,9 +9628,9 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Horror</genre>
-         <genre>Romance</genre>
+         <genre>gr1</genre>
+         <genre>gr12</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0824882</director>
@@ -9668,9 +9668,9 @@
       </released>
       <runtime>148 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0634240</director>
@@ -9708,9 +9708,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0043742</director>
@@ -9747,9 +9747,9 @@
       </released>
       <runtime>122 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Biography</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr4</genre>
       </genres>
       <directors>
          <director>nm0000165</director>
@@ -9792,9 +9792,9 @@
       </released>
       <runtime>120 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0004306</director>
@@ -9833,9 +9833,9 @@
       </released>
       <runtime>153 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0898288</director>
@@ -9870,9 +9870,9 @@
       </released>
       <runtime>147 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0336620</director>
@@ -9911,9 +9911,9 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1783265</director>
@@ -9952,7 +9952,7 @@
       </released>
       <runtime>146 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0853238</director>
@@ -9990,7 +9990,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1164861</director>
@@ -10028,7 +10028,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1098493</director>
@@ -10067,9 +10067,9 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0393799</director>
@@ -10106,7 +10106,7 @@
       </released>
       <runtime>96 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1890845</director>
@@ -10144,9 +10144,9 @@
       </released>
       <runtime>130 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0570912</director>
@@ -10183,9 +10183,9 @@
       </released>
       <runtime>156 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0327944</director>
@@ -10224,9 +10224,9 @@
       </released>
       <runtime>112 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0619923</director>
@@ -10264,8 +10264,8 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0862911</director>
@@ -10306,9 +10306,9 @@
       </released>
       <runtime>115 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0384825</director>
@@ -10343,9 +10343,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1461392</director>
@@ -10386,8 +10386,8 @@
       </released>
       <runtime>123 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm1410815</director>
@@ -10422,9 +10422,9 @@
       </released>
       <runtime>139 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm1139726</director>
@@ -10462,7 +10462,7 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0601337</director>
@@ -10497,8 +10497,8 @@
       </released>
       <runtime>165 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Western</genre>
+         <genre>gr7</genre>
+         <genre>gr20</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -10536,9 +10536,9 @@
       </released>
       <runtime>128 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0565336</director>
@@ -10575,8 +10575,8 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000318</director>
@@ -10612,8 +10612,8 @@
       </released>
       <runtime>137 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm1349376</director>
@@ -10652,9 +10652,9 @@
       </released>
       <runtime>320 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0440604</director>
@@ -10692,9 +10692,9 @@
       </released>
       <runtime>110 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0006476</director>
@@ -10731,9 +10731,9 @@
       </released>
       <runtime>123 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000165</director>
@@ -10774,9 +10774,9 @@
       </released>
       <runtime>93 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0812307</director>
@@ -10817,9 +10817,9 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0348181</director>
@@ -10858,9 +10858,9 @@
       </released>
       <runtime>134 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000537</director>
@@ -10897,9 +10897,9 @@
       </released>
       <runtime>114 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Sport</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm0179697</director>
@@ -10942,9 +10942,9 @@
       </released>
       <runtime>114 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0878763</director>
@@ -10982,9 +10982,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>History</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm2355933</director>
@@ -11023,9 +11023,9 @@
       </released>
       <runtime>95 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr3</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0230032</director>
@@ -11065,7 +11065,7 @@
       </released>
       <runtime>115 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0899121</director>
@@ -11104,9 +11104,9 @@
       </released>
       <runtime>114 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0679031</director>
@@ -11143,9 +11143,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm1218281</director>
@@ -11182,9 +11182,9 @@
       </released>
       <runtime>95 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr3</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm1868917</director>
@@ -11223,9 +11223,9 @@
       </released>
       <runtime>149 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000399</director>
@@ -11261,9 +11261,9 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0027572</director>
@@ -11304,9 +11304,9 @@
       </released>
       <runtime>148 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0005222</director>
@@ -11353,8 +11353,8 @@
       </released>
       <runtime>111 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm1259871</director>
@@ -11392,9 +11392,9 @@
       </released>
       <runtime>141 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0923736</director>
@@ -11431,9 +11431,9 @@
       </released>
       <runtime>90 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr3</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm2122478</director>
@@ -11471,8 +11471,8 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0001331</director>
@@ -11509,8 +11509,8 @@
       </released>
       <runtime>100 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001639</director>
@@ -11547,9 +11547,9 @@
       </released>
       <runtime>135 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0009190</director>
@@ -11587,9 +11587,9 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0868219</director>
@@ -11626,9 +11626,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Family</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr8</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0090386</director>
@@ -11663,8 +11663,8 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Music</genre>
+         <genre>gr7</genre>
+         <genre>gr13</genre>
       </genres>
       <directors>
          <director>nm3227090</director>
@@ -11699,9 +11699,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0067457</director>
@@ -11738,9 +11738,9 @@
       </released>
       <runtime>111 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm2158772</director>
@@ -11775,9 +11775,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0510912</director>
@@ -11817,9 +11817,9 @@
       </released>
       <runtime>129 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0891216</director>
@@ -11860,8 +11860,8 @@
       </released>
       <runtime>86 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr5</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0689187</director>
@@ -11899,9 +11899,9 @@
       </released>
       <runtime>105 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0948159</director>
@@ -11939,9 +11939,9 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0777881</director>
@@ -11979,9 +11979,9 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Animation</genre>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
+         <genre>gr3</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
       </genres>
       <directors>
          <director>nm0397174</director>
@@ -12027,9 +12027,9 @@
       </released>
       <runtime>151 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0811583</director>
@@ -12069,7 +12069,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0878756</director>
@@ -12108,9 +12108,9 @@
       </released>
       <runtime>122 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm1167933</director>
@@ -12146,9 +12146,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0269463</director>
@@ -12184,9 +12184,9 @@
       </released>
       <runtime>90 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm5820154</director>
@@ -12224,8 +12224,8 @@
       </released>
       <runtime>133 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm3363032</director>
@@ -12263,9 +12263,9 @@
       </released>
       <runtime>119 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0082450</director>
@@ -12303,9 +12303,9 @@
       </released>
       <runtime>115 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0160840</director>
@@ -12341,7 +12341,7 @@
       </released>
       <runtime>118 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm1049433</director>
@@ -12378,9 +12378,9 @@
       </released>
       <runtime>107 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0721817</director>
@@ -12417,9 +12417,9 @@
       </released>
       <runtime>99 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0619836</director>
@@ -12463,9 +12463,9 @@
       </released>
       <runtime>123 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Drama</genre>
-         <genre>Sport</genre>
+         <genre>gr4</genre>
+         <genre>gr7</genre>
+         <genre>gr17</genre>
       </genres>
       <directors>
          <director>nm1481618</director>
@@ -12503,8 +12503,8 @@
       </released>
       <runtime>83 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0504642</director>
@@ -12541,9 +12541,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0001741</director>
@@ -12582,9 +12582,9 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0898288</director>
@@ -12620,9 +12620,9 @@
       </released>
       <runtime>121 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0777881</director>
@@ -12660,9 +12660,9 @@
       </released>
       <runtime>187 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000233</director>
@@ -12698,9 +12698,9 @@
       </released>
       <runtime>146 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0751577</director>
@@ -12740,8 +12740,8 @@
       </released>
       <runtime>112 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>War</genre>
+         <genre>gr5</genre>
+         <genre>gr19</genre>
       </genres>
       <directors>
          <director>nm0275629</director>
@@ -12778,9 +12778,9 @@
       </released>
       <runtime>132 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0001338</director>
@@ -12818,9 +12818,9 @@
       </released>
       <runtime>144 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000631</director>
@@ -12858,9 +12858,9 @@
       </released>
       <runtime>142 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>History</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000229</director>
@@ -12901,9 +12901,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm2284484</director>
@@ -12941,7 +12941,7 @@
       </released>
       <runtime>94 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0428600</director>
@@ -12976,8 +12976,8 @@
       </released>
       <runtime>108 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm1519252</director>
@@ -13013,8 +13013,8 @@
       </released>
       <runtime>97 min</runtime>
       <genres>
-         <genre>Horror</genre>
-         <genre>Thriller</genre>
+         <genre>gr12</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0068587</director>
@@ -13051,9 +13051,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Comedy</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1757777</director>
@@ -13091,7 +13091,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm1676223</director>
@@ -13129,9 +13129,9 @@
       </released>
       <runtime>94 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Horror</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr12</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm1099918</director>
@@ -13166,7 +13166,7 @@
       </released>
       <runtime>109 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0726638</director>
@@ -13202,8 +13202,8 @@
       </released>
       <runtime>92 min</runtime>
       <genres>
-         <genre>Horror</genre>
-         <genre>Mystery</genre>
+         <genre>gr12</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm3211470</director>
@@ -13241,8 +13241,8 @@
       </released>
       <runtime>100 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm1032521</director>
@@ -13277,8 +13277,8 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0937306</director>
@@ -13315,7 +13315,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0139867</director>
@@ -13353,9 +13353,9 @@
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
-         <genre>Family</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13390,9 +13390,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13426,8 +13426,8 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13463,9 +13463,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13500,8 +13500,8 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13536,9 +13536,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13574,7 +13574,7 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13611,9 +13611,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13659,8 +13659,8 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13695,8 +13695,8 @@
       </released>
       <runtime>41 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13731,9 +13731,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Family</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13769,9 +13769,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13807,9 +13807,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13845,9 +13845,9 @@
       </released>
       <runtime>40 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13883,8 +13883,8 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Romance</genre>
+         <genre>gr5</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13920,9 +13920,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13955,7 +13955,7 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -13991,9 +13991,9 @@
       </released>
       <runtime>53 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14029,7 +14029,7 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14070,9 +14070,9 @@
       </released>
       <runtime>49 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14108,9 +14108,9 @@
       </released>
       <runtime>56 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14139,16 +14139,16 @@
    <movie type="series">
       <id>tt1051220</id>
       <title>The Shannara Chronicles</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>05</day>
          <month>Jan</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14184,9 +14184,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14221,9 +14221,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14251,16 +14251,16 @@
    <movie type="series">
       <id>tt1399664</id>
       <title>The Night Manager</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>19</day>
          <month>Apr</month>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14296,9 +14296,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14334,7 +14334,7 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14370,9 +14370,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14408,9 +14408,9 @@
       </released>
       <runtime>88 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14447,9 +14447,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14484,9 +14484,9 @@
       </released>
       <runtime>41 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14521,9 +14521,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14558,8 +14558,8 @@
       </released>
       <runtime>46 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14595,9 +14595,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14635,8 +14635,8 @@
       </released>
       <runtime>58 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14671,8 +14671,8 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14707,8 +14707,8 @@
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14743,9 +14743,9 @@
       </released>
       <runtime>55 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14781,7 +14781,7 @@
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14816,9 +14816,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14855,8 +14855,8 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14891,9 +14891,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14928,9 +14928,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Fantasy</genre>
-         <genre>Romance</genre>
+         <genre>gr2</genre>
+         <genre>gr9</genre>
+         <genre>gr15</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -14966,9 +14966,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15004,7 +15004,7 @@
       </released>
       <runtime>51 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15039,9 +15039,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15076,9 +15076,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15115,9 +15115,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Crime</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15156,7 +15156,7 @@
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15192,9 +15192,9 @@
       </released>
       <runtime>44 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15234,9 +15234,9 @@
       </released>
       <runtime>55 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15271,9 +15271,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15308,9 +15308,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15347,9 +15347,9 @@
       </released>
       <runtime>59 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15384,8 +15384,8 @@
       </released>
       <runtime>56 min</runtime>
       <genres>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15422,8 +15422,8 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15459,8 +15459,8 @@
       </released>
       <runtime>22 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Crime</genre>
+         <genre>gr5</genre>
+         <genre>gr6</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15496,9 +15496,9 @@
       </released>
       <runtime>45 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15533,9 +15533,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15570,9 +15570,9 @@
       </released>
       <runtime>49 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15611,9 +15611,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15641,16 +15641,16 @@
    <movie type="series">
       <id>tt2788432</id>
       <title>American Crime Story</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>02</day>
          <month>Feb</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Biography</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr4</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15686,9 +15686,9 @@
       </released>
       <runtime>53 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15723,9 +15723,9 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Mystery</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr14</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15760,9 +15760,9 @@
       </released>
       <runtime>64 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Romance</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr7</genre>
+         <genre>gr15</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15798,8 +15798,8 @@
       </released>
       <runtime>47 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15836,9 +15836,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15868,15 +15868,15 @@
    <movie type="series">
       <id>tt3186130</id>
       <title>Vinyl</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>14</day>
          <month>Feb</month>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Music</genre>
+         <genre>gr7</genre>
+         <genre>gr13</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15914,9 +15914,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15951,8 +15951,8 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -15987,9 +15987,9 @@
       </released>
       <runtime>54 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr1</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16028,8 +16028,8 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16064,9 +16064,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16102,8 +16102,8 @@
       </released>
       <runtime>51 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16139,9 +16139,9 @@
       </released>
       <runtime>58 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16176,7 +16176,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16211,8 +16211,8 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16248,9 +16248,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16278,15 +16278,15 @@
    <movie type="series">
       <id>tt3986586</id>
       <title>Fuller House</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>26</day>
          <month>Feb</month>
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
-         <genre>Family</genre>
+         <genre>gr5</genre>
+         <genre>gr8</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16321,9 +16321,9 @@
       </released>
       <runtime>43 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16353,14 +16353,14 @@
    <movie type="series">
       <id>tt4052886</id>
       <title>Lucifer</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>01</day>
          <month>Jul</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Fantasy</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16388,14 +16388,14 @@
    <movie type="series">
       <id>tt4061080</id>
       <title>Love</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>19</day>
          <month>Feb</month>
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16423,16 +16423,16 @@
    <movie type="series">
       <id>tt4145054</id>
       <title>Shadowhunters: The Mortal Instruments</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>12</day>
          <month>Jan</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
+         <genre>gr1</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16467,9 +16467,9 @@
       </released>
       <runtime>49 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16497,16 +16497,16 @@
    <movie type="series">
       <id>tt4209256</id>
       <title>Colony</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>14</day>
          <month>Jan</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Adventure</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr2</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16542,9 +16542,9 @@
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Fantasy</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr9</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16572,14 +16572,14 @@
    <movie type="series">
       <id>tt4270492</id>
       <title>Billions</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>N/</day>
          <month/>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16609,15 +16609,15 @@
    <movie type="series">
       <id>tt4337944</id>
       <title>Damien</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>07</day>
          <month>Mar</month>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Horror</genre>
+         <genre>gr7</genre>
+         <genre>gr12</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16645,15 +16645,15 @@
    <movie type="series">
       <id>tt4364202</id>
       <title>Criminal Minds: Beyond Borders</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>N/</day>
          <month/>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16687,7 +16687,7 @@
       </released>
       <runtime>N/A</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16715,16 +16715,16 @@
    <movie type="series">
       <id>tt4396862</id>
       <title>The Catch</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>24</day>
          <month>Mar</month>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Thriller</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16759,9 +16759,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Sci-Fi</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr16</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16789,15 +16789,15 @@
    <movie type="series">
       <id>tt4428038</id>
       <title>The Family</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>03</day>
          <month>Mar</month>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16832,9 +16832,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Crime</genre>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
+         <genre>gr6</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16869,9 +16869,9 @@
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>Mystery</genre>
-         <genre>Thriller</genre>
+         <genre>gr7</genre>
+         <genre>gr14</genre>
+         <genre>gr18</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16899,14 +16899,14 @@
    <movie type="series">
       <id>tt4478002</id>
       <title>Crowded</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>15</day>
          <month>Mar</month>
       </released>
       <runtime>21 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16934,15 +16934,15 @@
    <movie type="series">
       <id>tt4522400</id>
       <title>Underground</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>N/</day>
          <month/>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
-         <genre>History</genre>
+         <genre>gr7</genre>
+         <genre>gr11</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -16971,15 +16971,15 @@
    <movie type="series">
       <id>tt4532368</id>
       <title>Legends of Tomorrow</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>21</day>
          <month>Jan</month>
       </released>
       <runtime>42 min</runtime>
       <genres>
-         <genre>Action</genre>
-         <genre>Sci-Fi</genre>
+         <genre>gr1</genre>
+         <genre>gr16</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -17010,14 +17010,14 @@
    <movie type="series">
       <id>tt4816626</id>
       <title>Outsiders</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>N/</day>
          <month/>
       </released>
       <runtime>60 min</runtime>
       <genres>
-         <genre>Drama</genre>
+         <genre>gr7</genre>
       </genres>
       <directors>
          <director>nm0000000</director>
@@ -17045,14 +17045,14 @@
    <movie type="series">
       <id>tt4973548</id>
       <title>Flaked</title>
-      <year>2016–</year>
+      <year>2016</year>
       <released>
          <day>11</day>
          <month>Mar</month>
       </released>
       <runtime>30 min</runtime>
       <genres>
-         <genre>Comedy</genre>
+         <genre>gr5</genre>
       </genres>
       <directors>
          <director>nm0000000</director>

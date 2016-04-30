@@ -3,85 +3,101 @@
    <genre>
       <id>gr1</id>
       <name>Action</name>
+      <desc>Action film is a film genre in which the protagonist(s) is/are thrust into a series of challenges that involve physical feats, extended fighting, violence, and frantic chases. Action films tend to feature a resourceful character struggling against incredible odds, which include life-threatening situations, a villain, or a pursuit which generally concludes in victory for the hero.</desc>
    </genre>
    <genre>
       <id>gr2</id>
       <name>Adventure</name>
+      <desc>Adventure films are a genre of film. Unlike action films, they often use their action scenes preferably to display and explore exotic locations in an energetic way.</desc>
    </genre>
    <genre>
       <id>gr3</id>
       <name>Animation</name>
+      <desc>Animation films are a genre of film and is the process of making the illusion of motion and change by means of the rapid display of a sequence of static images that minimally differ from each other.</desc>
    </genre>
    <genre>
       <id>gr4</id>
       <name>Biography</name>
+      <desc>A biographical film is a film that dramatizes the life of a non-fictional or historically-based person or people. Such films show the life of a historical person and the central character’s real name is used.~They differ from films "based on a true story" or “historical drama films" in that they attempt to comprehensively tell a person’s life story or at least the most historically important years of their lives.</desc>
    </genre>
    <genre>
       <id>gr5</id>
       <name>Comedy</name>
+      <desc>Comedy is a genre of film in which the main emphasis is on humour. These films are designed to make the audience laugh through amusement and most often work by exaggerating characteristics for humorous effect. Films in this style traditionally have a happy ending.</desc>
    </genre>
    <genre>
       <id>gr6</id>
       <name>Crime</name>
+      <desc>Crime films are films that focus on the lives of criminals. The stylistic approach to a crime film varies from realistic portrayals of real-life criminal figures, to the far-fetched evil doings of imaginary arch-villains.</desc>
    </genre>
    <genre>
       <id>gr7</id>
       <name>Drama</name>
+      <desc>In the context of film and television, drama is a type of narrative fiction intended to be more serious than humorous in tone, focusing on in-depth development of realistic characters who must deal with realistic emotional struggles. A drama in this context is commonly considered the opposite of a comedy, but may also be considered distinct from other works of some broad types of literature, such as a fantasy.</desc>
    </genre>
    <genre>
       <id>gr8</id>
       <name>Family</name>
+      <desc>A family film is a film genre that contains children or relates to them in the context of home and family. Children's films are made specifically for children and not necessarily for the general audience, while family films are made for a wider appeal with a general audience in mind. Children's films come in several major forms like realism, fantasy, animation, war, musicals, and literary adaptations.</desc>
    </genre>
    <genre>
       <id>gr9</id>
       <name>Fantasy</name>
+      <desc>Fantasy films are films that belong to the fantasy genre with fantastic themes, usually involving magic, supernatural events, mythology, folklore, or exotic fantasy worlds. The genre is considered a form of speculative fiction alongside science fiction films and horror films, although the genres do overlap. Fantasy films often have an element of magic, myth, wonder, escapism, and the extraordinary</desc>
    </genre>
    <genre>
       <id>gr10</id>
       <name>Film-Noir</name>
+      <desc>Film noir is a cinematic term used primarily to describe stylish Hollywood crime dramas, particularly such that emphasize cynical attitudes and sexual motivations.</desc>
    </genre>
    <genre>
       <id>gr11</id>
       <name>History</name>
+      <desc></desc>
    </genre>
    <genre>
       <id>gr12</id>
       <name>Horror</name>
+      <desc>Horror is a film genre seeking to elicit a negative emotional reaction from viewers by playing on the audience's primal fears. The macabre and the supernatural are frequent themes, and may overlap with the fantasy, supernatural fiction and thriller genres. Horror films often deal with viewer's nightmares, fears, revulsions and terror of the unknown. Plots within the horror genre often involve the intrusion of an evil force, event, or personage into the everyday world. Prevalent elements include ghosts, extraterrestrials, vampires, werewolves, demons, gore, torture, vicious animals, evil witches, monsters, zombies, cannibals, psychopaths, and serial killers.</desc>
    </genre>
    <genre>
       <id>gr13</id>
-      <name>Music</name>
+      <name>Musical</name>
+      <desc>The musical film is a film genre in which songs sung by the characters are interwoven into the narrative, sometimes accompanied by dancing. The songs usually advance the plot or develop the film's characters, though in some cases they serve merely as breaks in the storyline, often as elaborate "production numbers".</desc>
    </genre>
    <genre>
       <id>gr14</id>
-      <name>Musical</name>
+      <name>Mystery</name>
+      <desc>Mystery film is a genre of film that revolves around the solution of a problem or a crime. It focuses on the efforts of the detective, private investigator or amateur sleuth to solve the mysterious circumstances of an issue by means of clues, investigation, and clever deduction.</desc>
    </genre>
    <genre>
       <id>gr15</id>
-      <name>Mystery</name>
+      <name>Romance</name>
+      <desc>Romance films are romantic love stories recorded in visual media for broadcast in theaters and on television that focus on passion, emotion, and the affectionate romantic involvement of the main characters and the journey that their genuinely strong, true and pure romantic love takes them through dating, courtship or marrige. Romance films make the romantic love story or the search for strong and pure love and romance the main plot focus. Occasionally, romance lovers face obstacles such as finances, physical illness, various forms of discrimination, psychological restraints or family that threaten to break their union of love. As in all quite strong, deep, and close romantic relationships, tensions of day-to-day life, temptations (of infidelity), and differences in compatibility enter into the plots of romantic films.</desc>
    </genre>
    <genre>
       <id>gr16</id>
-      <name>Romance</name>
+      <name>Sci-Fi</name>
+      <desc>Science fiction film is a film genre that uses science fiction: speculative, fictional science-based depictions of phenomena that are not fully accepted by mainstream science, such as extraterrestrial life forms, alien worlds, extrasensory perception and time travel, along with futuristic elements such as spacecraft, robots, cyborgs, interstellar space travel or other technologies. Science fiction films have often been used to focus on political or social issues, and to explore philosophical issues like the human condition. In many cases, tropes derived from written science fiction may be used by filmmakers ignorant of or at best indifferent to the standards of scientific plausibility and plot logic to which written science fiction is traditionally held</desc>
    </genre>
    <genre>
       <id>gr17</id>
-      <name>Sci-Fi</name>
+      <name>Sport</name>
+      <desc>A sports film is a film genre that uses sport as the theme of a film. Often sports fans are not the target demographic in such movies, but sports fans tend to have a large following or respect for such movies.</desc>
    </genre>
    <genre>
       <id>gr18</id>
-      <name>Sport</name>
+      <name>Thriller</name>
+      <desc>Thriller is a broad genre of literature, film and television, having numerous subgenres. Thrillers are characterized and defined by the moods they elicit, giving viewers heightened feelings of suspense, excitement, surprise, anticipation and anxiety. Thrillers generally keep the audience on the "edge of their seats" as the plot builds towards a climax. The cover-up of important information from the viewer is a common element. Literary devices such as red herrings, plot twists, and cliffhangers are used extensively. A thriller is usually a villain-driven plot, whereby he or she presents obstacles that the protagonist must overcome.</desc>
    </genre>
    <genre>
       <id>gr19</id>
-      <name>Thriller</name>
+      <name>War</name>
+      <desc>War film is a film genre concerned with warfare, typically about naval, air, or land battles in the twentieth century, with combat scenes central to the drama. The fateful nature of battle scenes means that war films often end with them. Themes explored include combat, survival and escape, sacrifice, the futility and inhumanity of battle, the effects of war on society, and the moral and human issues raised by war. War films are often categorized by their milieu, such as the Korean War; the most popular subject is the Second World War. The stories told may be fiction, historical drama, or biographical. Critics have noted similarities between the Western and the war film.</desc>
    </genre>
    <genre>
       <id>gr20</id>
-      <name>War</name>
-   </genre>
-   <genre>
-      <id>gr21</id>
       <name>Western</name>
+      <desc>The Western is a genre of various arts, such as comics, fiction, film, games, radio, and television which tell stories set primarily in the later half of the 19th century in the American Old West, often centering on the life of a nomadic cowboy or gunfighter armed with a revolver and a rifle who rides a horse. Cowboys and gunslingers typically wear Stetson hats, bandannas, spurs, cowboy boots and buckskins. Other characters include Native Americans, bandits, lawmen, bounty hunters, outlaws, mounted cavalry, settlers and townsfolk.</desc>
    </genre>
 </genres>
