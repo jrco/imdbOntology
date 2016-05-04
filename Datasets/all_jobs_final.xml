@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jobs>
+   <job>
+      <id>jb1</id>
+      <name>Actor</name>
+   </job>
+   <job>
+      <id>jb2</id>
+      <name>Actress</name>
+   </job>
+   <job>
+      <id>jb3</id>
+      <name>Animation Department</name>
+   </job>
+   <job>
+      <id>jb4</id>
+      <name>Art Department</name>
+   </job>
+   <job>
+      <id>jb5</id>
+      <name>Director</name>
+   </job>
+   <job>
+      <id>jb6</id>
+      <name>Editor</name>
+   </job>
+   <job>
+      <id>jb7</id>
+      <name>Producer</name>
+   </job>
+   <job>
+      <id>jb8</id>
+      <name>Production Designer</name>
+   </job>
+   <job>
+      <id>jb9</id>
+      <name>Soundtrack</name>
+   </job>
+   <job>
+      <id>jb10</id>
+      <name>Writer</name>
+   </job>
+</jobs>
